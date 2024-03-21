@@ -8,3 +8,4 @@
 - [Tests with Travis CI - Tutorial](https://www.raywenderlich.com/109418/travis-ci-tutorial)
 - [Why Sass?](https://github.com/sergiokopplin/indigo/issues/117)
 - [Jekyll Example](https://github.com/barryclark/jekyll-now) - how to clone, run and edit jekyll configs
+- (https://www.youtube.com/watch?v=ku6dd8zRvD8) - update website and change name site
